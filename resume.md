@@ -1,7 +1,7 @@
-Theodore Ajax Dobyns
+Theodore Ajax Dobyns  
 ted@tedajax.net
 
-**Experience**
+#### Experience
 - Linden Lab, Software Engineer, August 2014 - Present
 	- TODO
 - Quark Games, Game Developer, May 2014 - August 2014
@@ -16,9 +16,9 @@ ted@tedajax.net
 	- TODO
 
 
-**Skills**
+#### Skills
 enough to pay the bills
 
-**Education**
+#### Education
 B.S. Computer Science, UNC Charlotte, 2008-2012
 
