@@ -2,6 +2,9 @@ Theodore Ajax Dobyns
 ted@tedajax.net
 
 #### Experience
+
+Will fill in additional things later when I care enough.
+
 - Linden Lab, Software Engineer, August 2014 - Present
 	- TODO
 - Quark Games, Game Developer, May 2014 - August 2014
