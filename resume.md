@@ -1,10 +1,10 @@
-#resume.md
+## resume.md
 
 **Name:** Theodore Ajax Dobyns  
 **Email:** ted.ajax@gmail.com  
 **Github:** http://github.com/tedajax
 
-###About
+### About
 I'm a programmer and game designer.  Sometimes I like working on low level high performance code and sometimes I like working at a high level code that just makes a game work.  I am primarily interested in "traditional" PC/console gaming and virtual reality.
 
 *Huh that's weird, who puts their resume in a markdown file?*
@@ -15,8 +15,7 @@ This is a reasonable question.  I don't like resumes very much and I definitely 
 
 Many services that accept resumes and pass them on have a limited list of extensions that they'll accept because apparently we still haven't moved on from that convention; so yes it's exported to a pdf. 
 
-###Work Experience
-
+### Work Experience
 * **Gameplay & Prototyping Engineer** - *ToyTalk/Pullstring Inc.*, 11/2015 - 7/2016
 	* Shipped several game demos to pitch to investors/publishers pulling in assets from multiple art disciplines.
 	* Prototyped many gameplay mechanics in Unity exploring possible use of conversation as a game mechanic.
@@ -42,11 +41,11 @@ Many services that accept resumes and pass them on have a limited list of extens
 	* Built data visualization tools for coastal LIDAR data allowing for temporal analysis of coastal erosion.
 	* Created pipelines for processing large amounts of data for use in real time applications.
 
-###Technical skills
+### Technical skills
 **Languages:** C++, C#, C, Lua, Shaders (GLSL/HLSL), Typescript/Javascript, Objective-C, Java, Python, Go, PowerShell, bash
 **Engines/Frameworks:** Unity3D, LOVE2D, XNA/MonoGame, UE4  
 **Tools:** Visual Studio, Sublime Text, coreutils (Unix land), vim, revision control (git, p4, hg, svn)  
 **Non-programming related:** Linear Algebra (3D Math), Physics (Classical Mechanics), Game Design, Game Feel 
 
-###Education
+### Education
 **University of North Carolina at Charlotte** - *B.S. Computer Science*,  2008-2012
