@@ -13,7 +13,7 @@ This is a reasonable question.  I don't like resumes very much and I definitely 
 
 *But wait this is in a .pdf!  You're a big fat PHONY!*
 
-Many services that accept resumes and pass them on have a limited list of extensions that they'll accept because apparently we still haven't moved on from that convention; so yes it's exported to a pdf. 
+Many services that accept resumes and pass them on have a limited list of extensions that they'll accept because apparently we still haven't moved on from that convention; so yes it's exported to a pdf.
 
 ### Work Experience
 * **Gameplay & Prototyping Engineer** - *ToyTalk/Pullstring Inc.*, 11/2015 - 7/2016
@@ -40,6 +40,12 @@ Many services that accept resumes and pass them on have a limited list of extens
 * **Undergraduate Research Assistant** - *University of North Carolina at Charlotte* 06/2010-12/2011
 	* Built data visualization tools for coastal LIDAR data allowing for temporal analysis of coastal erosion.
 	* Created pipelines for processing large amounts of data for use in real time applications.
+
+### Shipped Titles
+
+* **Software Engineer** - *Fates Forever*, iOS, 2014 *Hammer & Chisel* 
+* **Software Engineer** - *Jackpot Slots*, iOS, 2013 *Gree Intl. Inc.*
+* **Programmer, Designer, Producer, Artist** - [*XNcAve*](http://www.mobygames.com/game/xnacave), XBL Indie Store, 2009 *Independent*
 
 ### Technical skills
 **Languages:** C++, C#, C, Lua, Shaders (GLSL/HLSL), Typescript/Javascript, Objective-C, Java, Python, Go, PowerShell, bash
