@@ -11,16 +11,17 @@ This is a reasonable question.  I don't like resumes very much and I definitely 
 
 *But wait this is in a .pdf!  You're a big fat PHONY!*
 
-Many services that accept resumes and pass them on have a limited list of extensions that they'll accept because apparently we still haven't moved on from that convention so yes it's exported to a pdf. 
+Many services that accept resumes and pass them on have a limited list of extensions that they'll accept because apparently we still haven't moved on from that convention; So yes it's exported to a pdf. 
 
 ###Work Experience
 
 * **Gameplay & Prototyping Engineer** - *ToyTalk/Pullstring Inc.*, 11/2015 - 7/2016
-	* Created lots of gameplay prototypes in Unity attempting to use conversation as a gameplay element.
-	* Rapid iteration on ideas with lots of cross disciplinary communication. 
-	* Architected reasonable framework for quickly trying out concepts while still maintaining some level of code sanity.
+	* Shipped several game demos to pitch to investors/publishers pulling in assets from multiple art disciplines.
+	* Prototyped many gameplay mechanics in Unity exploring possible use of conversation as a game mechanic.
+	* Built reasonable framework for rapidly iterating on ideas while maintaining some code sanity.
+	* Worked with writers on architecting narrative that informs gameplay and vice versa.
 * **Software Engineer** - *Linden Lab*, 08/2014 - 10/2015
-	* Worked on custom next generation MMO game engine with focus on supporting user generated content in VR.
+	* Part of a team building a custom next generation MMO game engine with focus on supporting user generated content in VR.
 	* Designed and built foundational structures for efficient operations on potentially large and unwieldy user generated content.
 	* Created abstractions for dealing with wide range of input devices across wide platform spectrum from mobile to VR.
 * **Game Developer** - *Quark Games*, 05/2014 - 08/2014
