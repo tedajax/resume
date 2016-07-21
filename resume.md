@@ -13,7 +13,7 @@ This is a reasonable question.  I don't like resumes very much and I definitely 
 
 *But wait this is in a .pdf!  You're a big fat PHONY!*
 
-Many services that accept resumes and pass them on have a limited list of extensions that they'll accept because apparently we still haven't moved on from that convention; So yes it's exported to a pdf. 
+Many services that accept resumes and pass them on have a limited list of extensions that they'll accept because apparently we still haven't moved on from that convention; so yes it's exported to a pdf. 
 
 ###Work Experience
 
