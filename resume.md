@@ -16,30 +16,32 @@ This is a reasonable question.  I don't like resumes very much and I definitely 
 Many services that accept resumes and pass them on have a limited list of extensions that they'll accept because apparently we still haven't moved on from that convention; so yes it's exported to a pdf.
 
 ### Work Experience
+* **Senior Software Engineer** - *Linden Lab*, 7/2016 - Present
+	* Continuing work on next gen, user generated content focused, VR, MMO after a brief hiatus to try some work at a startup.
 * **Gameplay & Prototyping Engineer** - *ToyTalk/Pullstring Inc.*, 11/2015 - 7/2016
-	* Shipped several game demos to pitch to investors/publishers pulling in assets from multiple art disciplines.
-	* Prototyped many gameplay mechanics in Unity exploring possible use of conversation as a game mechanic.
-	* Built reasonable framework for rapidly iterating on ideas while maintaining some code sanity.
-	* Worked with writers on architecting narrative that informs gameplay and vice versa.
+	* Several game demos to pitch to investors/publishers pulling in assets from multiple art disciplines.
+	* Experimental gameplay mechanics in Unity exploring possible use of conversation as a game mechanic.
+	* Framework for rapidly iterating on ideas while maintaining some code sanity.
+	* Collaboration with writers to create narrative that informs gameplay and vice versa.
 * **Software Engineer** - *Linden Lab*, 08/2014 - 10/2015
-	* Part of a team building a custom next generation MMO game engine with focus on supporting user generated content in VR.
-	* Designed and built foundational structures for efficient operations on potentially large and unwieldy user generated content.
-	* Worked on high performance code with heavy emphasis on data-oriented design and cache locality.
-	* Created abstractions for dealing with wide range of input devices across wide platform spectrum from mobile to VR.
+	* Custom next generation MMO game engine with focus on supporting user generated content in VR.
+	* Foundational structures for efficient operations on potentially large and unwieldy user generated content.
+	* High performance code with heavy emphasis on data-oriented design and cache locality.
+	* Abstractions for dealing with wide range of input devices across wide platform spectrum from mobile to VR.
 * **Game Developer** - *Quark Games*, 05/2014 - 08/2014
-	* Built external library that controlled all game logic.  Could be consumed by the client (Unity3D) or the server (Elixir shenanigans creating Mono instances).
-	* Used library to create two social/mobile clash of clans clones.
+	* External library that controlled all game logic.  Could be consumed by the client (Unity3D) or the server (Elixir shenanigans creating Mono instances).
+	* Two social/mobile clash of clans clones *barf*.
 * **Software Engineer** - *Hammer & Chisel*, 04/2013 - 04/2014
-	* Shipped *Fates Forever* a MOBA for iPad built in Unity3D.
-	* Created systems to support wide range of abilities and character traits.
-	* Using character systems built most of the characters and their abilities in the game.
-	* Built most of the game UI with NGUI.
+	* *Fates Forever* a MOBA for iPad built in Unity3D.
+	* Systems to support wide range of abilities and character traits.
+	* Character systems built most of the characters and their abilities in the game.
+	* All in-game UI.
 * **Software Engineer** - *Gree Intl. Inc.*, 07/2012 - 04/2013
-	* Shipped Jackpot Slots for iOS.
-	* Learned how to lose my soul by watching social/mobile gameplay industry constantly cannibalize itself and create games which typically used some sort of exploitative psychology.
+	* *Jackpot Slots* for iOS.
+	* Social/mobile hell.  Please never make me work on this crap again.
 * **Undergraduate Research Assistant** - *University of North Carolina at Charlotte* 06/2010-12/2011
-	* Built data visualization tools for coastal LIDAR data allowing for temporal analysis of coastal erosion.
-	* Created pipelines for processing large amounts of data for use in real time applications.
+	* Data visualization tools for coastal LIDAR data allowing for temporal analysis of coastal erosion.
+	* Pipelines for processing large amounts of data for use in real time applications.
 
 ### Shipped Titles
 
@@ -49,7 +51,7 @@ Many services that accept resumes and pass them on have a limited list of extens
 
 ### Technical skills
 **Languages:** C++, C#, C, Lua, Shaders (GLSL/HLSL), Typescript/Javascript, Objective-C, Java, Python, Go, PowerShell, bash
-**Engines/Frameworks:** Unity3D, LOVE2D, XNA/MonoGame, UE4  
+**Engines/Frameworks:** Unity3D, LOVE2D, UE4, XNA/MonoGame
 **Tools:** Visual Studio, Sublime Text, coreutils (Unix land), vim, revision control (git, p4, hg, svn)  
 **Non-programming related:** Linear Algebra (3D Math), Physics (Classical Mechanics), Game Design, Game Feel 
 
